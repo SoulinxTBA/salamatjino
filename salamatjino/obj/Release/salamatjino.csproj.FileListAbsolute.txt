@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\SharpDevelop Projects\salamatjino\salamatjino\bin\Release\salamatjino.exe.config
+C:\Users\Acer\Documents\SharpDevelop Projects\salamatjino\salamatjino\bin\Release\salamatjino.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\salamatjino\salamatjino\obj\Release\salamatjino.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\SharpDevelop Projects\salamatjino\salamatjino\obj\Release\salamatjino.MainForm.resources
+C:\Users\Acer\Documents\SharpDevelop Projects\salamatjino\salamatjino\obj\Release\salamatjino.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\SharpDevelop Projects\salamatjino\salamatjino\obj\Release\salamatjino.exe

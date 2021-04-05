@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\salamatjino\salamatjino\bin\Debug\salamatjino.exe.config
+C:\Users\Acer\Desktop\salamatjino\salamatjino\bin\Debug\salamatjino.exe
+C:\Users\Acer\Desktop\salamatjino\salamatjino\bin\Debug\salamatjino.pdb
+C:\Users\Acer\Desktop\salamatjino\salamatjino\obj\Debug\salamatjino.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\salamatjino\salamatjino\obj\Debug\salamatjino.MainForm.resources
+C:\Users\Acer\Desktop\salamatjino\salamatjino\obj\Debug\salamatjino.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\salamatjino\salamatjino\obj\Debug\salamatjino.exe
+C:\Users\Acer\Desktop\salamatjino\salamatjino\obj\Debug\salamatjino.pdb
+C:\Users\Acer\Documents\SharpDevelop Projects\salamatjino\salamatjino\bin\Debug\salamatjino.exe.config
+C:\Users\Acer\Documents\SharpDevelop Projects\salamatjino\salamatjino\bin\Debug\salamatjino.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\salamatjino\salamatjino\bin\Debug\salamatjino.pdb
+C:\Users\Acer\Documents\SharpDevelop Projects\salamatjino\salamatjino\obj\Debug\salamatjino.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\SharpDevelop Projects\salamatjino\salamatjino\obj\Debug\salamatjino.MainForm.resources
+C:\Users\Acer\Documents\SharpDevelop Projects\salamatjino\salamatjino\obj\Debug\salamatjino.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\SharpDevelop Projects\salamatjino\salamatjino\obj\Debug\salamatjino.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\salamatjino\salamatjino\obj\Debug\salamatjino.pdb

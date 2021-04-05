@@ -1,0 +1,8 @@
+C:\Users\JINO GENODIA\OneDrive\Documents\SharpDevelop Projects\salamatjino\salamatjino\obj\Debug\salamatjino.csprojResolveAssemblyReference.cache
+C:\Users\JINO GENODIA\OneDrive\Documents\SharpDevelop Projects\salamatjino\salamatjino\obj\Debug\salamatjino.MainForm.resources
+C:\Users\JINO GENODIA\OneDrive\Documents\SharpDevelop Projects\salamatjino\salamatjino\obj\Debug\salamatjino.csproj.GenerateResource.Cache
+C:\Users\JINO GENODIA\OneDrive\Documents\SharpDevelop Projects\salamatjino\salamatjino\bin\Debug\salamatjino.exe.config
+C:\Users\JINO GENODIA\OneDrive\Documents\SharpDevelop Projects\salamatjino\salamatjino\bin\Debug\salamatjino.exe
+C:\Users\JINO GENODIA\OneDrive\Documents\SharpDevelop Projects\salamatjino\salamatjino\bin\Debug\salamatjino.pdb
+C:\Users\JINO GENODIA\OneDrive\Documents\SharpDevelop Projects\salamatjino\salamatjino\obj\Debug\salamatjino.exe
+C:\Users\JINO GENODIA\OneDrive\Documents\SharpDevelop Projects\salamatjino\salamatjino\obj\Debug\salamatjino.pdb
